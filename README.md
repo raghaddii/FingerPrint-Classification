@@ -40,4 +40,7 @@ by using three ML models: Random Forest, Decision Tree, KNN
 
 <img width="400" alt="Screen Shot 2023-06-25 at 4 15 59 AM" src="https://github.com/raghaddii/FingerPrint-Classification/assets/68879499/c986ba8e-ee52-442c-870c-15bee503f0c6">
 
+# Actual VS Predicted
+<img width="400" alt="Screen Shot 2023-06-25 at 4 17 12 AM" src="https://github.com/raghaddii/FingerPrint-Classification/assets/68879499/4f31d5a4-8e6f-437c-98d0-4e504335a8c2">
+
 
