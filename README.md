@@ -23,4 +23,27 @@ SIFT key point
 
 <img width="250" alt="Screen Shot 2023-06-25 at 4 10 32 AM" src="https://github.com/raghaddii/FingerPrint-Classification/assets/68879499/5aadf020-bf7c-4876-a3fe-a558b599703e">
 
+# Result
+by using Random Forest Model 
+- canny edge :
+
+F1 Score: 30.44 %
+
+Precision: 29.49 %
+
+Accuracy: 31.94 %
+- Harris corner:
+
+F1 Score: 36.28 %
+
+Precision: 35.22 %
+
+Accuracy: 38.13 %
+- SIFT key point:
+
+F1 Score: 36.76 %
+
+Precision: 35.32 %
+
+Accuracy: 38.56 %
 
