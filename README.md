@@ -27,23 +27,17 @@ SIFT key point
 by using Random Forest Model 
 - canny edge :
 
-F1 Score: 30.44 %
-
 Precision: 29.49 %
-
-Accuracy: 31.94 %
 - Harris corner:
 
-F1 Score: 36.28 %
-
 Precision: 35.22 %
-
-Accuracy: 38.13 %
 - SIFT key point:
-
-F1 Score: 36.76 %
 
 Precision: 35.32 %
 
-Accuracy: 38.56 %
+# After Merge
+by using three ML models: Random Forest, Decision Tree, KNN
+
+<img width="400" alt="Screen Shot 2023-06-25 at 4 15 59 AM" src="https://github.com/raghaddii/FingerPrint-Classification/assets/68879499/c986ba8e-ee52-442c-870c-15bee503f0c6">
+
 
